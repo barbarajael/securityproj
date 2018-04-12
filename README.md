@@ -1,7 +1,5 @@
 # Security App
 
-***
-
 Project for the course of **Computer Security and in the Organizations** @ DETI-UA [2016].
 
 Project done in collaboration with Jorge Loureiro.
